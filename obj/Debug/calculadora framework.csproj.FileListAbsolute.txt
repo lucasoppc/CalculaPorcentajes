@@ -1,0 +1,12 @@
+C:\Users\matia\source\repos\calculadora framework\bin\calculadora framework.dll.config
+C:\Users\matia\source\repos\calculadora framework\bin\calculadora framework.dll
+C:\Users\matia\source\repos\calculadora framework\bin\calculadora framework.pdb
+C:\Users\matia\source\repos\calculadora framework\obj\Debug\calculadora framework.csprojAssemblyReference.cache
+C:\Users\matia\source\repos\calculadora framework\obj\Debug\calculadora framework.dll
+C:\Users\matia\source\repos\calculadora framework\obj\Debug\calculadora framework.pdb
+C:\Users\matia\Desktop\Lucas Data\calculadora framework (1)\bin\calculadora framework.dll.config
+C:\Users\matia\Desktop\Lucas Data\calculadora framework (1)\bin\calculadora framework.dll
+C:\Users\matia\Desktop\Lucas Data\calculadora framework (1)\bin\calculadora framework.pdb
+C:\Users\matia\Desktop\Lucas Data\calculadora framework (1)\obj\Debug\calculadora framework.csprojAssemblyReference.cache
+C:\Users\matia\Desktop\Lucas Data\calculadora framework (1)\obj\Debug\calculadora framework.dll
+C:\Users\matia\Desktop\Lucas Data\calculadora framework (1)\obj\Debug\calculadora framework.pdb
